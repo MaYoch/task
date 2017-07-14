@@ -1,0 +1,121 @@
+h1{
+	
+	font-size:4px;
+	padding: 8px;
+	margin: auto;
+	background-color:palevioletred;
+	color: white;
+	
+}
+h2 {
+font-size: 20px;
+   font-family:cursive; 
+    
+}
+h4{
+   font-size: 20px;
+	padding: 8px;
+	margin: auto;
+	background-color:palevioletred;
+	color: white; 
+font-family:cursive;
+    
+}
+ #List ul {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    display:table;
+    background-color: white;
+}
+
+ #List li {
+    float:left;
+}
+
+ #List li a {
+    display: block;
+    color:palevioletred;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+border-right: 1px solid #bbb;
+}
+
+#List li a:hover {
+    background-color:black;
+}
+#List li a.active {
+    background-color: palevioletred;
+    color: white;
+} 
+#menu li{ 
+ float:center;
+background-color:pink;
+display: list-item;
+ color:white;
+         }
+#menu li a{
+ color:white;
+text-align:left;
+}
+il{
+display: list-item;
+
+}
+#point li{
+	display: list-item;
+   position:relative;
+     top:-100px;
+ padding: 10px;
+ margin-left: 50px;
+font-size:20px;
+
+}
+
+
+#nav{
+	text-align: center;
+	margin-bottom: 2px;
+	
+}
+li{
+	display:inline-block;
+	font-weight: bold;
+	font-size: 25px;
+	padding-right: 15px;
+font-family:cursive;
+}
+li a{
+   color: palevioletred;
+ font-family: sans-serif; 
+    
+}
+ul{
+position: center;	
+	margin: 0 auto;
+}
+#side-list{
+	float: right;
+	position: right;
+}
+
+hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 1px solid palevioletred;
+    margin: 1em 0;
+    padding: 0;
+}
+#foo{
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: fixed;
+    float: right;
+    bottom: 0; padding: 5px;
+width: 100%;
+    position:fixed;
+}
